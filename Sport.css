@@ -20,7 +20,7 @@ body{background-color:black;}
     height:600pxpx;
     margin: 10px;
     font-size: x-large;
-    background-image: url(soccer.jpg);
+    background-image: url("soccer.jpg");
     background-repeat: no-repeat;
     background-size: cover;}
 nav{background-color: cyan;}
@@ -49,7 +49,7 @@ font-family: Georgia, 'Times New Roman', Times, serif;}
         height:800px;
         margin: 10px;
         font-size: x-large;
-        background-image: url(Messi3.jpg);
+        background-image: url("messi3.jpg");
          background-repeat: no-repeat;
         background-size: cover;}
 nav{background-color: cyan;}
